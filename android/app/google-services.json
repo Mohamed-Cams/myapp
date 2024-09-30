@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "171068392099",
+    "project_id": "mobi-bank-fl",
+    "storage_bucket": "mobi-bank-fl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171068392099:android:abec840b52b51e15257516",
+        "android_client_info": {
+          "package_name": "com.example.bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz1g3f0p2K7H9VYos-CJCJBrm5kaLGPng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171068392099:android:cf397e7cffe0b9e0257516",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz1g3f0p2K7H9VYos-CJCJBrm5kaLGPng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
